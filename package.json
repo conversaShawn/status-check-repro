@@ -1,0 +1,22 @@
+{
+  "name": "scfail",
+  "version": "1.0.0",
+  "description": "This repo is solely for the purpose of trying to reproduce an issue with using Cypress GitHub Actions and pull request comments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conversaShawn/status-check-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conversaShawn/status-check-repro/issues"
+  },
+  "homepage": "https://github.com/conversaShawn/status-check-repro#readme",
+  "dependencies": {
+    "cypress": "^9.5.2"
+  }
+}
