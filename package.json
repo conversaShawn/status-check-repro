@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/conversaShawn/status-check-repro#readme",
   "dependencies": {
+    "@cypress/commit-info": "^2.2.0",
     "cypress": "^9.5.2"
   }
 }
